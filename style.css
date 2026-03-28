@@ -1,0 +1,28 @@
+body {
+  background: #f2f2f2;
+}
+
+.login-box {
+  max-width: 900px;
+  width: 100%;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
+
+.carouselExample{
+    height: 100%;
+}
+
+
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rounded-4 {
+  border-radius: 20px !important;
+}
